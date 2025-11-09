@@ -1,0 +1,16 @@
+--- Calorie Tracker Log ---
+Session Time: 2025-11-09 14:47:56
+---------------------------
+
+Meal Details:
+- roti sabzi: 456 calories
+- rice dal: 765 calories
+- fruit salad: 332 calories
+
+Summary:
+Total Calories: 1553
+Average Calories: 517.67
+Daily Limit: 1500
+
+Status:
+Warning: You went 53 calories over your limit of 1500.

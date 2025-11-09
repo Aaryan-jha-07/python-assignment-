@@ -1,0 +1,15 @@
+--- Calorie Tracker Log ---
+Session Time: 2025-11-09 14:45:27
+---------------------------
+
+Meal Details:
+- pizza: 500 calories
+- pasta: 700 calories
+
+Summary:
+Total Calories: 1200
+Average Calories: 600.00
+Daily Limit: 1000
+
+Status:
+Warning: You went 200 calories over your limit of 1000.
